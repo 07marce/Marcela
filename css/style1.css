@@ -1,0 +1,23 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    
+}
+input{
+    width: 200px; 
+    height: 50px;
+    text-align: center;
+}
+::placeholder{
+    background-color: beige;
+    text-align: 500px center ;
+
+
+   
+}
+button {
+    background-color: rgb(125, 210, 138);
+    width: 100px;
+}
+
+

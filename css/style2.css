@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+h2{
+    text-align: center;
+
+}
+input{
+    width: 150px;
+    height: 30px;
+}
+label{
+    text-align: center;
+    width: 300px;
+}
+button{
+    width: 100px;
+    height: 25px;
+}
